@@ -10,7 +10,7 @@ Download from https://github.com/claytn/drepl
 
 As of now, I haven't been able to publish a binary executable. So, jar files it is!
 
-$ clj -X:uberjar
+    $ clj -X:uberjar
 
 ```
 Welcome to drepl!
