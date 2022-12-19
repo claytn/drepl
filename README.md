@@ -15,7 +15,8 @@ brew install babashka
 Step 2: install drepl
 
 ```sh
-wget -O /usr/local/bin/drepl https://raw.githubusercontent.com/claytn/drepl/master/drepl.clj
+wget -O /usr/local/bin/drepl https://raw.githubusercontent.com/claytn/drepl/master/drepl.clj \
+&& chmod +x /usr/local/bin/drepl
 ```
 
 ## Usage
