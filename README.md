@@ -9,7 +9,7 @@ Step 1: install babashka
 > drepl is a [babashka](https://babashka.org/) script so you'll need babashka on your local machine to run drepl.
 
 ```sh
-brew install babashka
+brew install borkdude/brew/babashka
 ```
 
 Step 2: install drepl
